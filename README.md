@@ -208,14 +208,16 @@ Handheld-Crank-Phone-Charger/
 
 **Course:** ENGR 1340-012, Introduction to Engineering Design, Texas Tech University (September 11 to December 2, 2025)
 
-**Team:** roles below come from the RACI matrix in the project report.
+**Team:** Roles below come from the RACI matrix in the project report.
 
-| Name | Responsibilities |
+| Name | Planned role (RACI) |
 |---|---|
 | Ebubechukwu Iwunnah | Circuit modeling and simulation, research on design and materials, physical layout, prototype building and testing, final report approval |
-| Quoc Thinh Tran | Objectives and concept of operations, system context diagram, operational requirements, functional description, data collection |
-| Steven Finley | Parts procurement, assembly, physical specifications, assembly lead for the prototype |
-| Joshua Garcia | Purchase approval, build completion oversight, report editing and formatting |
+| Quoc "Pilot" T. | Objectives and concept of operations, system context diagram, operational requirements, functional description, data collection |
+| Steven F. | Parts procurement, assembly, physical specifications, assembly lead for the prototype |
+| Joshua G. | Purchase approval, build completion oversight, report editing and formatting |
+
+**What was actually done:** The planned split changed during the project. I built the prototype, wrote the firmware, modeled and printed the enclosure, and ran the bench tests.
 
 **Libraries and data**
 
